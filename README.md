@@ -4,7 +4,7 @@ Welcome to the United States Geological Survey, or USGS for short. The USGS is r
 <br><br>
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 <br><br>
-<b>Basic Visualization</b>
+<b>Visualizations</b>
 <br>
 Got the data set and imported & visualized the data by creating a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 <br>
