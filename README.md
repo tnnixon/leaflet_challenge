@@ -12,14 +12,14 @@ Data markers reflect the magnitude of the earthquake by their size and and depth
 <br><br>
 <b>More Data</b>
 <br>
-The USGS also requested a second data set plotted on the map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it alongside your original set of data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
+The USGS also requested a second data set plotted on the map to illustrate the relationship between tectonic plates and seismic activity.
 <br>
 A second data set was plotted on the map. I also added a number of base maps to choose from and overlays that can be turned on and off independently for each separate data set.
 <br><br>
 <b>Link to Maps:</b> https://tnnixon.github.io/leaflet_challenge/
 <br><br>
 
-<b>Resources</b><br>
+<h1>Resources</h1><br>
 <b>Earthquake Data:</b> https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 <br>
 <b>Tectonic Plate Data:</b> https://github.com/fraxen/tectonicplates.
